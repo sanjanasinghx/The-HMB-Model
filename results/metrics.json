@@ -1,0 +1,47 @@
+{
+  "seed": 0,
+  "fig1_validation": {
+    "learned_lie": 44.34782608695652,
+    "learned_honest": 29.710144927536234,
+    "q_lie": 43.93099547511315,
+    "q_honest": 29.913793103448285
+  },
+  "fig2_welfare_regimes": {
+    "welfare_M": 33.333333333333336,
+    "welfare_L": 23.0,
+    "welfare_H": 0.0,
+    "first_best": 35.0
+  },
+  "fig3_trade_inefficiency": {
+    "trade_probability": {
+      "M": 0.6666666666666667,
+      "L": 0.25,
+      "H": 0.0
+    },
+    "inefficiency": {
+      "M": 0.08333333333333331,
+      "L": 0.5,
+      "H": 0.75
+    },
+    "floor": 0.08333333333333333
+  },
+  "regime_M": {
+    "q": "5/6",
+    "q_float": 0.8333333333333334,
+    "y": 20,
+    "trade_probability": 0.6666666666666667,
+    "welfare": 33.333333333333336,
+    "inefficiency": 0.08333333333333331
+  },
+  "regime_H": {
+    "trade_probability": 0.0,
+    "welfare": 0.0,
+    "inefficiency": 0.75
+  },
+  "regime_L": {
+    "k": 2.0,
+    "trade_probability": 0.25,
+    "welfare": 23.0,
+    "inefficiency": 0.5
+  }
+}
